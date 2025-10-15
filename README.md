@@ -62,4 +62,3 @@ sudo apt install gnome-system-tools
 - MySQL, SQLite, Devilbox, PostgreSQL, веб-приложение phpMyAdmin и т.д.
 ```
 
-Просто скопируйте весь этот текст и вставьте в файл README.md в вашем репозитории.
