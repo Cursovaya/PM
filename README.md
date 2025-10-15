@@ -17,7 +17,7 @@
 ```bash
 tar cvpzf backup.tgz –exclude=/proc –exclude=/lost+found –exclude=/backup.tgz –exclude=/mnt –exclude=/sys –exclude=/web /
 
-### Созданы точки восстановления системы
+ Созданы точки восстановления системы
 ### Созданы группы пользователей
 sudo apt install gnome-system-tools
 
@@ -37,5 +37,6 @@ sudo apt install gnome-system-tools
 6. Антивирус (Dr.Web CureIt, Avast Free Antivirus, 360 Total Security, Kaspersky Free и т.д.)
 7. Среда разработки (NetBeans, Lazarus Linux, Eclipse IDE, Code::Blocks, MonoDevelop, Android Studio, JetBrains Raider и т.д.)
 8. СУБД (MySQL, SQLite, Devilbox, PostgreSQL, веб-приложение phpMyAdmin и т.д.)
+
 
 
